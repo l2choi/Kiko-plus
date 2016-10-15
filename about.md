@@ -21,6 +21,6 @@ Some info about the guy behind this site:
 
 ### Acknowledgements
 
-Developed in Sublime Text 3.
+Developed in Sublime Text 3. Powered by Jekyll.
 
 This site uses the [Kiko Plus](https://github.com/AWEEKJ/Kiko-plus) theme.
