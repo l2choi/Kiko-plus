@@ -3,8 +3,6 @@ title: About
 permalink: /about/
 ---
 
-### About
-
 Some info about the guy behind this site:
 
 * I'm a 4th year Computer Engineering student at the University of Waterloo.
