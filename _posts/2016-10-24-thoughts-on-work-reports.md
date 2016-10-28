@@ -14,8 +14,11 @@ Recently, there have been news of the ECE department considering the inclusion o
 
 * **The marking scheme tends to be arbitrary.** Work reports are marked on four different criteria: Structure and Flow, Detail Presentation, Writing and Formatting, and Technical Content. Structure and Flow evaluates how well the topic is introduced, and whether conclusions and recommendations are made at the appropriate points within the report. Detail Presentation evaluates whether paragraph/sentence structures are appropriate, and that low-level explanations are clear. Writing and Formatting concerns physical formatting, spelling, and grammar, while Technical Content assesses the depth of the topic and whether it's sufficent to write a report. Out of these four criteria, I believe that three of them, minus Writing and Formatting, are inherently subjective by nature. The English language has rules on grammar and how to spell words, and reports have a set of formatting guidelines that must be followed. However, there are no hard rules on what makes a particular sentence structure good, or whether a concept is explained clearly or not. Lastly, the final grade assigned to the report only consists of one of five numerical grades: 95, 89, 75, 65, and 38. This can potentially punish a student's average unfairly if the report was deemed unsatisfactory.
 
-![Example of marking](/images/workreport.jpg "Example of marking")
--> Yes, I was marked off for this. <-
+<figure>
+	<img src="/images/workreport.jpg">
+	<figcaption>Yes, I was marked off for this.</figcaption>
+</figure>
+
 
 * **Choosing a good topic can be difficult.** The term 'engineering judgment' is somewhat vague, but can roughly be interpreted as "describing a situation which involved some sort of analysis or design". Because the jobs a student can take vary considerably, it is likely that not all jobs offer the opportunity to display engineering judgment. There are a myriad of reasons why this could be the case: the work performed doesn't really involve either analysis or design, or perhaps the student was not given the opportunity to use it in a 4-month span. If the student doesn't have a good project to write about, it can potentially lead to...
 
