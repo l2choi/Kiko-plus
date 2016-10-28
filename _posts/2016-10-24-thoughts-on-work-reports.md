@@ -16,7 +16,7 @@ Recently, there have been news of the ECE department considering the inclusion o
 
 <figure>
 	<img src="/images/workreport.jpg">
-	<figcaption>Yes, I was marked off for this.</figcaption>
+	<figcaption align="center">Yes, I was marked off for this.</figcaption>
 </figure>
 
 
