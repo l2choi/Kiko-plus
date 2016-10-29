@@ -15,9 +15,9 @@ author:
 google-analytics:
   id:               ""
 
-# Disqus (not used)
+# Disqus 
 disqus:
-  id:               ""
+  id:               "l2choi"
 
 # URL
 url:                "https://l2choi.github.io"
