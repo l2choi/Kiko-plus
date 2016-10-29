@@ -9,8 +9,8 @@ This [Jekyll](http://jekyllrb.com)-based site uses the [Kiko Plus](https://aweek
 
 #### To-do
 
-~~ * Disqus support ~~
+~~* Disqus support~~
 * Add resume
 * Add contact tab
 * Fix site link - L should redirect back to main page 
-* Add favicon
+~~* Add favicon~~
