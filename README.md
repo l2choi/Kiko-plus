@@ -12,5 +12,5 @@ This [Jekyll](http://jekyllrb.com)-based site uses the [Kiko Plus](https://aweek
 ~~* Disqus support~~
 * Add resume
 * Add contact tab
-* Fix site link - L should redirect back to main page 
+* Fix site link - should redirect back to main page
 ~~* Add favicon~~
