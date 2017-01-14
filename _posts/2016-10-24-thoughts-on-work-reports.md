@@ -19,7 +19,6 @@ Recently, there have been news of the ECE department considering the inclusion o
 	<figcaption align="center">Yes, I was marked off for this.</figcaption>
 </figure>
 
-
 * **Choosing a good topic can be difficult.** The term 'engineering judgment' is somewhat vague, but can roughly be interpreted as "describing a situation which involved some sort of analysis or design". Because the jobs a student can take vary considerably, it is likely that not all jobs offer the opportunity to display engineering judgment. There are a myriad of reasons why this could be the case: the work performed doesn't really involve either analysis or design, or perhaps the student was not given the opportunity to use it in a 4-month span. If the student doesn't have a good project to write about, it can potentially lead to...
 
 * **Modifying job details to satisfy requirements.** When choosing a topic, it's sometimes required to modify details, which results in the report not describing the actual work done. Although all of my reports are based on projects that I worked on during the term, there are some exaggerated details. This may also occur because the department isn't concerned with, and can't verify whether the report's contents are legitimate or not.
