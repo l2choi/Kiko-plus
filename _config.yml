@@ -22,7 +22,7 @@ disqus:
 # URL
 url:                "https://l2choi.github.io"
 #url:               "localhost:4000"
-baseurl:            "/"
+baseurl:            ""
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
