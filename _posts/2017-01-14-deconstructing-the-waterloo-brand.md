@@ -3,7 +3,7 @@ layout: post
 title: "Deconstructing the Waterloo Brand"
 description: "Appearances can be deceptive."
 date: 2017-01-14
-tags: [Waterloo]
+tags: [Waterloo, ECE]
 comments: true
 share: true
 ---
@@ -22,7 +22,7 @@ On the school's [website](https://uwaterloo.ca/about/what-we-stand), there's the
 
 Waterloo claims that their students are the "best and brightest", but how does the school define these students? The most obvious answer would be grades: students who do well are assumed to have mastered the course material. It also plays a significant role in selecting potential students during the admissions process.
 
-In recent years, there has been a trend of increasing admission averages. As a personal anecdote, I was admitted to the ECE program in Fall 2010 with a high 80s (85-89) average. At the time, the admission average was simply listed as "individual selection from the mid 80s". If I applied for Fall 2016 admission with the same average, I would only have a [7 % chance](/images/admissionaverages.PNG) of getting in. 
+In recent years, there has been a trend of increasing admission averages. As a personal anecdote, I was admitted to the ECE program in Fall 2010 with a high 80s average. At the time, the admission average was simply listed as "individual selection from the mid 80s". If I applied for Fall 2016 admission with the same average, I would only have a [7 % chance](/images/admissionaverages.PNG) of getting in. 
 
 It's obvious that factors such as demand for the program are reflected in the new averages. However, the implications on the students' abilities are unclear. Firstly, how do we know if the students are genuinely bright? In a pool of students with similar averages, it's unlikely that their abilities will all be equal. Secondly, can it be assumed that students are smarter than those who applied in previous years? Curriculums and competition for programs vary by year, so it's hard to make a direct comparison.
 
