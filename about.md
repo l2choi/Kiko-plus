@@ -5,7 +5,7 @@ permalink: /about/
 
 Some info about the guy behind this site:
 
-* I'm a 4th year Computer Engineering student at the University of Waterloo.
+* I graduated from the Computer Engineering program at the University of Waterloo, class of 2017.
 * I write stuff.
 * If I'm not writing, I'm probably around somewhere.
 * I read up on a lot of things: tech, politics, world events, etc.
